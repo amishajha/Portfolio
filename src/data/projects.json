@@ -1,26 +1,27 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Animated Website",
+    "imageSrc": "projects/web.png",
+    "description": "Designed and developed visually engaging website using HTML, CSS and JavaScript",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://amishajha.github.io/animatedwebsite/",
+    "source": "https://github.com/amishajha/animatedwebsite"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "OMR Scanner Web App",
+    "imageSrc": "projects/omr.png",
+    "description": "Developed user friendly OMR sheet evaluation app that simplifiesthe process.",
+    "skills": ["HTML", "CSS", "Javascript", "python" ,"flask"],
+     "demo":"https://github.com/amishajha/OMR",
+    "source": "https://github.com/amishajha/OMR"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Image-To_Text_App",
+    "imageSrc": "projects/ocr.jpg",
+    "description": "It is a mobile application that utilizes machine learning capabilities through ML kit and firebase services to convert text from images into digital content.This app enables user to extract to extract",
+
+    "skills": ["Java", "xml"],
+    "demo": "https://github.com/amishajha/Image-To-Text-Android-Application",
+    "source": "https://github.com/amishajha/Image-To-Text-Android-Application"
   }
 ]

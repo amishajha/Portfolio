@@ -1,10 +1,17 @@
 @import "../../vars.css";
 
 .container {
-  margin-top: 76px;
-  color: var(--color-text);
+  position: relative;
+  background-color: rgb(41, 121, 147);
+  border-radius: 15px;
+  padding: 73px ;
+  margin-top: 129px;
+  z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+
+  
+ 
 }
 
 .title {
@@ -12,6 +19,9 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
 }
 
 .projects {
@@ -21,6 +31,12 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 15px;
-  width: 100%;
+  gap: 16px;
+  width: auto;
+  
+}
+@media screen and (max-width: 830px){
+  .container{
+    background-color: black;
+  }
 }

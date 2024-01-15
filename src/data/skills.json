@@ -16,15 +16,26 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "javascript",
+    "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Next",
+    "imageSrc": "skills/Next.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Sql",
+    "imageSrc": "skills/sql.png"
+  },
+  { 
+    "title": "cpp",
+    "imageSrc": "skills/cpp.png"
+
+  },
+
+  { 
+    "title": "java",
+    "imageSrc": "skills/java.png"
+
   }
 ]

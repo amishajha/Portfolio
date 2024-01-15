@@ -11,7 +11,7 @@
 }
 
 .title {
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
@@ -28,9 +28,14 @@
 }
 
 .menuItems a {
-  font-size: 25px;
+  font-size: 20px;
   color: var(--color-text);
   text-decoration: none;
+}
+
+.menuBtn {
+  display: none;
+
 }
 
 @media screen and (max-width: 830px) {
