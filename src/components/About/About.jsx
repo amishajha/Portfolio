@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-              I'm a passionate frontend developer with a focus on creating dynamic and responsive web applications. My expertise lies in utilizing cutting-edge technologies to deliver seamless user experiences
+              I'm a passionate FullStack developer with a focus on creating dynamic and responsive web applications. My expertise lies in utilizing cutting-edge technologies to deliver seamless user experiences
               </p>
             </div>
           </li>
