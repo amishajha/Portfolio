@@ -12,7 +12,7 @@ export const Hero = () => {
           
           a versatile and results-driven software developer with a strong foundation in C, C++, Java, JavaScript, React, Node.js, SQL, and Next.js.
         </p>
-        <a href="https://drive.google.com/drive/folders/1tzXTm9t-t9vbVsIu3_YL2JjCLxrYrDlL" className={styles.contactBtn}>
+        <a href="https://drive.google.com/drive/folders/1L6Cv-8Svqwa_BH_4cu7sGHgHhqoQ07a_" className={styles.contactBtn}>
           Resume
         </a>
       </div>
